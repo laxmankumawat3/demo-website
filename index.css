@@ -1,10 +1,14 @@
 nav{
     display: flex;
+   
+    justify-content: center;
+    align-items: center;
     background-color: rgb(254, 114, 1);
     
 }
 nav div{
     padding: 5px;
+    
 }
 body{
     margin : 0px;
